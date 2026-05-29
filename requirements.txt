@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+faiss-cpu
+numpy
+scikit-learn
+google-generativeai
+jupyter
+ipykernel
